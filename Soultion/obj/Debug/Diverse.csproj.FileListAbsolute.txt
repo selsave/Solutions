@@ -1,0 +1,6 @@
+C:\Users\553914\source\repos\Soultion\Soultion\bin\Debug\Soultion.exe.config
+C:\Users\553914\source\repos\Soultion\Soultion\bin\Debug\Soultion.exe
+C:\Users\553914\source\repos\Soultion\Soultion\bin\Debug\Soultion.pdb
+C:\Users\553914\source\repos\Soultion\Soultion\obj\Debug\Diverse.csproj.CoreCompileInputs.cache
+C:\Users\553914\source\repos\Soultion\Soultion\obj\Debug\Soultion.exe
+C:\Users\553914\source\repos\Soultion\Soultion\obj\Debug\Soultion.pdb

@@ -1,0 +1,17 @@
+C:\Users\553914\source\repos\Soultion\DiverseTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\553914\source\repos\Soultion\DiverseTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\553914\source\repos\Soultion\DiverseTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\553914\source\repos\Soultion\DiverseTests\bin\Debug\DiverseTests.dll
+C:\Users\553914\source\repos\Soultion\DiverseTests\bin\Debug\DiverseTests.pdb
+C:\Users\553914\source\repos\Soultion\DiverseTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\553914\source\repos\Soultion\DiverseTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\553914\source\repos\Soultion\DiverseTests\bin\Debug\Soultion.exe
+C:\Users\553914\source\repos\Soultion\DiverseTests\bin\Debug\Soultion.pdb
+C:\Users\553914\source\repos\Soultion\DiverseTests\bin\Debug\Soultion.exe.config
+C:\Users\553914\source\repos\Soultion\DiverseTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\553914\source\repos\Soultion\DiverseTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\553914\source\repos\Soultion\DiverseTests\obj\Debug\DiverseTests.csprojAssemblyReference.cache
+C:\Users\553914\source\repos\Soultion\DiverseTests\obj\Debug\DiverseTests.csproj.CoreCompileInputs.cache
+C:\Users\553914\source\repos\Soultion\DiverseTests\obj\Debug\DiverseTests.csproj.CopyComplete
+C:\Users\553914\source\repos\Soultion\DiverseTests\obj\Debug\DiverseTests.dll
+C:\Users\553914\source\repos\Soultion\DiverseTests\obj\Debug\DiverseTests.pdb

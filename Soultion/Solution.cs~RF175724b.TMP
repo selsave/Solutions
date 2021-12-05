@@ -1,0 +1,50 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Soultion
+{
+    class Solution
+    {
+        public string solution(int A, int B, int C)
+        {
+            System.Text.StringBuilder output = new System.Text.StringBuilder();
+            char characterAlreadyUsed = ' ';
+
+            while (true)
+            {
+                char currentChar = ' ';
+                if (characterAlreadyUsed != 'a' && A > 0 && (A >= B || characterAlreadyUsed == 'b') && (A >= C || characterAlreadyUsed == 'c'))
+                {
+                    currentChar = 'a';
+                    A--;
+                }
+                else if (characterAlreadyUsed != 'b' && B > 0 && (B >= C || characterAlreadyUsed == 'c'))
+                {
+                    currentChar = 'b';
+                    B--;
+                }
+                else if (characterAlreadyUsed != 'c' && C > 0)
+                {
+                    currentChar = 'c';
+                    C--;
+                }
+                if (currentChar == ' ')
+                    break;
+                if (output.Length > 0 && currentChar == output[output.Length - 1])
+                {
+                    characterAlreadyUsed = currentChar;
+                }
+                else
+                {
+                    characterAlreadyUsed = ' ';
+                }
+                output.Append(currentChar);
+            }
+
+            return output.ToString();
+        }
+    }
+}

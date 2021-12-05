@@ -1,0 +1,63 @@
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using DiverseSpace;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DiverseSpace.Tests
+{
+    [TestClass()]
+    public class SoultionTests
+    {
+        [TestMethod()]
+        public void solution_Example1_A6B1C1()
+        {
+            //Arrange
+            var obj = new Soultion();
+
+            //Act
+            var result = obj.solution(6, 1, 1);
+
+            //Assert
+            Assert.AreEqual(result.ToString(), "aabaacaa");
+        }
+        [TestMethod]
+        public void solution_Example2_A1B3C1()
+        {
+            //Arrange
+            var obj = new Soultion();
+
+            //Act
+            var result = obj.solution(1, 3, 1);
+
+            //Assert
+            Assert.AreEqual(result.ToString(), "bbabc");
+        }
+        [TestMethod]
+        public void solution_Example3_A0B1C8()
+        {
+            //Arrange
+            var obj = new Soultion();
+
+            //Act
+            var result = obj.solution(0, 1, 8);
+
+            //Assert
+            Assert.AreEqual(result.ToString(), "ccbcc");
+        }
+        [TestMethod]
+        public void solution_AllSuperSmall_A1B1C1()
+        {
+            //Arrange
+            var obj = new Soultion();
+
+            //Act
+            var result = obj.solution(1, 1, 1);
+
+            //Assert
+            Assert.AreEqual(result.ToString(), "abc");
+        }
+    }
+}
